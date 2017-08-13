@@ -1,0 +1,1 @@
+rm *gpl *log samples/*
